@@ -1,0 +1,13 @@
+.hero-section {
+  background: url(../images/hero.jpg);
+  background-size: cover;
+  /* color: #fff; */
+  color: white;
+  padding: 130px 0px;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
