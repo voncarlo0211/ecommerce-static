@@ -1,4 +1,4 @@
-.hero-section {
+.hero {
   background: url(../images/hero.jpg);
   background-size: cover;
   /* color: #fff; */
@@ -10,4 +10,8 @@
   align-items: center;
   justify-content: center;
   text-align: center;
+}
+
+.footer {
+  padding: 10px 10px;
 }
